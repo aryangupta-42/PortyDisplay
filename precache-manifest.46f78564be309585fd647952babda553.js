@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c36efdd6f8bffc94c26c44d2a289ad03",
+    "revision": "108a3fe6841d51d474d92636e2ad584f",
     "url": "/PortyDisplay/index.html"
   },
   {
-    "revision": "5f6f31f1aae4428ba517",
+    "revision": "11e39d535b796bfe72a5",
     "url": "/PortyDisplay/static/css/main.d6bd6bd4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js.LICENSE"
   },
   {
-    "revision": "5f6f31f1aae4428ba517",
-    "url": "/PortyDisplay/static/js/main.49fc653a.chunk.js"
+    "revision": "11e39d535b796bfe72a5",
+    "url": "/PortyDisplay/static/js/main.97a85aff.chunk.js"
   },
   {
     "revision": "cd8840b09c7cd5b55498",
