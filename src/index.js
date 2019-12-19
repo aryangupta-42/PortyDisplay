@@ -5,7 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 
-fetch(`./file.json`)
+fetch(`./Data/file.json`)
 .then((r) => r.json())
 .then((data) =>{
   console.log(data);
