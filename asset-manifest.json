@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/PortyDisplay/static/css/main.d6bd6bd4.chunk.css",
-    "main.js": "/PortyDisplay/static/js/main.822e492a.chunk.js",
-    "main.js.map": "/PortyDisplay/static/js/main.822e492a.chunk.js.map",
+    "main.js": "/PortyDisplay/static/js/main.49fc653a.chunk.js",
+    "main.js.map": "/PortyDisplay/static/js/main.49fc653a.chunk.js.map",
     "runtime-main.js": "/PortyDisplay/static/js/runtime-main.f2766a57.js",
     "runtime-main.js.map": "/PortyDisplay/static/js/runtime-main.f2766a57.js.map",
-    "static/js/2.5c64ec35.chunk.js": "/PortyDisplay/static/js/2.5c64ec35.chunk.js",
-    "static/js/2.5c64ec35.chunk.js.map": "/PortyDisplay/static/js/2.5c64ec35.chunk.js.map",
+    "static/js/2.02e0d1ad.chunk.js": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js",
+    "static/js/2.02e0d1ad.chunk.js.map": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js.map",
     "index.html": "/PortyDisplay/index.html",
-    "precache-manifest.34c0b8d3cfa4d76929715e0216f5dcac.js": "/PortyDisplay/precache-manifest.34c0b8d3cfa4d76929715e0216f5dcac.js",
+    "precache-manifest.f2957b741c32af95742be282ce654edc.js": "/PortyDisplay/precache-manifest.f2957b741c32af95742be282ce654edc.js",
     "service-worker.js": "/PortyDisplay/service-worker.js",
     "static/css/main.d6bd6bd4.chunk.css.map": "/PortyDisplay/static/css/main.d6bd6bd4.chunk.css.map",
-    "static/js/2.5c64ec35.chunk.js.LICENSE": "/PortyDisplay/static/js/2.5c64ec35.chunk.js.LICENSE",
+    "static/js/2.02e0d1ad.chunk.js.LICENSE": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js.LICENSE",
     "static/media/portfolio.css": "/PortyDisplay/static/media/skill.756b3183.jpg",
     "static/media/logo.svg": "/PortyDisplay/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2766a57.js",
-    "static/js/2.5c64ec35.chunk.js",
+    "static/js/2.02e0d1ad.chunk.js",
     "static/css/main.d6bd6bd4.chunk.css",
-    "static/js/main.822e492a.chunk.js"
+    "static/js/main.49fc653a.chunk.js"
   ]
 }
