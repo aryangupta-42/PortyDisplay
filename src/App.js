@@ -11,11 +11,12 @@ import Extra from "./portfolio/extra";
 import Contact from "./portfolio/contact";
 
 import './portfolio.css';
-import { profile } from './file.json';
 
 
-function App() {
+
+function App(props) {
   const scrollFunc = () => scroll.scrollTo(window.innerHeight);
+  const profile = props.appData.profile;
   return (
     <div class="portfolioContainerFull">
         <Landing
