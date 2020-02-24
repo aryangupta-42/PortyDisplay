@@ -22,6 +22,7 @@ function App(props) {
         <Landing
           name={profile.user.name}
           label={profile.about.label}
+          img={profile.about.imgUrl}
           initScroll={scrollFunc}
         />
         <div class="portfolioBodyCont" style={{ top: window.innerHeight + 'px' }}>
@@ -37,7 +38,7 @@ function App(props) {
           />
           <Contact
             email={profile.user.email}
-            phone={profile.user.phone}
+            phone={profile.about.number}
             location={profile.location}
           />
         </div>
