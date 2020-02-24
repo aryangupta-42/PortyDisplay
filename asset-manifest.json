@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/PortyDisplay/static/css/main.d6bd6bd4.chunk.css",
-    "main.js": "/PortyDisplay/static/js/main.d8a9fc6c.chunk.js",
-    "main.js.map": "/PortyDisplay/static/js/main.d8a9fc6c.chunk.js.map",
-    "runtime-main.js": "/PortyDisplay/static/js/runtime-main.f2766a57.js",
-    "runtime-main.js.map": "/PortyDisplay/static/js/runtime-main.f2766a57.js.map",
-    "static/js/2.02e0d1ad.chunk.js": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js",
-    "static/js/2.02e0d1ad.chunk.js.map": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js.map",
-    "index.html": "/PortyDisplay/index.html",
-    "precache-manifest.e961705e1f0ff96ca16273a41425966f.js": "/PortyDisplay/precache-manifest.e961705e1f0ff96ca16273a41425966f.js",
-    "service-worker.js": "/PortyDisplay/service-worker.js",
-    "static/css/main.d6bd6bd4.chunk.css.map": "/PortyDisplay/static/css/main.d6bd6bd4.chunk.css.map",
-    "static/js/2.02e0d1ad.chunk.js.LICENSE": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js.LICENSE",
-    "static/media/portfolio.css": "/PortyDisplay/static/media/skill.756b3183.jpg",
-    "static/media/logo.svg": "/PortyDisplay/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.fd22763f.chunk.css",
+    "main.js": "/static/js/main.da42eeb6.chunk.js",
+    "main.js.map": "/static/js/main.da42eeb6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f1596703.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f1596703.js.map",
+    "static/js/2.02e0d1ad.chunk.js": "/static/js/2.02e0d1ad.chunk.js",
+    "static/js/2.02e0d1ad.chunk.js.map": "/static/js/2.02e0d1ad.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3adf51fbbd1dabca3068cc1b0b4a0f20.js": "/precache-manifest.3adf51fbbd1dabca3068cc1b0b4a0f20.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fd22763f.chunk.css.map": "/static/css/main.fd22763f.chunk.css.map",
+    "static/js/2.02e0d1ad.chunk.js.LICENSE": "/static/js/2.02e0d1ad.chunk.js.LICENSE",
+    "static/media/portfolio.css": "/static/media/skill.756b3183.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2766a57.js",
+    "static/js/runtime-main.f1596703.js",
     "static/js/2.02e0d1ad.chunk.js",
-    "static/css/main.d6bd6bd4.chunk.css",
-    "static/js/main.d8a9fc6c.chunk.js"
+    "static/css/main.fd22763f.chunk.css",
+    "static/js/main.da42eeb6.chunk.js"
   ]
 }
