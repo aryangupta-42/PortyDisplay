@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PortyDisplay/static/css/main.d6bd6bd4.chunk.css",
-    "main.js": "/PortyDisplay/static/js/main.00bbf950.chunk.js",
-    "main.js.map": "/PortyDisplay/static/js/main.00bbf950.chunk.js.map",
+    "main.js": "/PortyDisplay/static/js/main.d8a9fc6c.chunk.js",
+    "main.js.map": "/PortyDisplay/static/js/main.d8a9fc6c.chunk.js.map",
     "runtime-main.js": "/PortyDisplay/static/js/runtime-main.f2766a57.js",
     "runtime-main.js.map": "/PortyDisplay/static/js/runtime-main.f2766a57.js.map",
     "static/js/2.02e0d1ad.chunk.js": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js",
     "static/js/2.02e0d1ad.chunk.js.map": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js.map",
     "index.html": "/PortyDisplay/index.html",
-    "precache-manifest.59d4372a3bdcbb952fdd53e75d650cf4.js": "/PortyDisplay/precache-manifest.59d4372a3bdcbb952fdd53e75d650cf4.js",
+    "precache-manifest.e961705e1f0ff96ca16273a41425966f.js": "/PortyDisplay/precache-manifest.e961705e1f0ff96ca16273a41425966f.js",
     "service-worker.js": "/PortyDisplay/service-worker.js",
     "static/css/main.d6bd6bd4.chunk.css.map": "/PortyDisplay/static/css/main.d6bd6bd4.chunk.css.map",
     "static/js/2.02e0d1ad.chunk.js.LICENSE": "/PortyDisplay/static/js/2.02e0d1ad.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.f2766a57.js",
     "static/js/2.02e0d1ad.chunk.js",
     "static/css/main.d6bd6bd4.chunk.css",
-    "static/js/main.00bbf950.chunk.js"
+    "static/js/main.d8a9fc6c.chunk.js"
   ]
 }
