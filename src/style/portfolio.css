@@ -353,16 +353,16 @@
   background-position: center;
 }
 .miniAwardImage {
-  background-image: url('./images/award.jpg');
+  background-image: url('../images/award.jpg');
 }
 .miniPublicationImage {
-  background-image: url('./images/publish.jpg');
+  background-image: url('../images/publish.jpg');
 }
 .miniLanguageImage {
-  background-image: url('./images/language.png');
+  background-image: url('../images/language.png');
 }
 .miniSkillImage {
-  background-image: url('./images/skill.jpg');
+  background-image: url('../images/skill.jpg');
 }
 .portfolioAwardCompany span,.portfolioAwardDate span{
   font-weight: 600;
